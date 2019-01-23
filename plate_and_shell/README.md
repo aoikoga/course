@@ -2,4 +2,4 @@
 
 [Python のチュートリアル](tutorial.ipynb)
 
-[Sympy のデモ][sympy.ipynb)
+[Sympy のデモ](sympy.ipynb)
